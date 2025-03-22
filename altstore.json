@@ -1,0 +1,26 @@
+{
+  "name": "TocaBoca",
+  "identifier": "com.tocaboca.source",
+  "apps": [
+    {
+      "beta": false,
+      "name": "Toca Boca World",
+      "bundleIdentifier": "com.tocaboca.tocaworld",
+      "developerName": "Toca Boca",
+      "subtitle": "Create your own world and play your way!",
+      "version": "v1.0",
+      "versionDate": "2025-03-23T12:00:00+00:00",
+      "versionDescription": "Initial release.",
+      "downloadURL": "https://store1.gofile.io/download/web/a0a1a637-fdba-4c9e-ac83-40132f6fe800/Toca-World.ipa",
+      "localizedDescription": "Toca Boca World lets you build and explore a customizable world with endless possibilities.",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Toca_Life_World_Icon.png/200px-Toca_Life_World_Icon.png",
+      "tintColor": "ffcc00",
+      "size": 150000000,  
+      "screenshotURLs": [
+        "https://play-lh.googleusercontent.com/Vj4ImzB7T0KbWzcmKNu8yfES-BOJmy87uAfWkQm1UggSpP7trEKxMdPvq9Xy1p6SzA",
+        "https://play-lh.googleusercontent.com/FUj04c0CwH2mhA2TqTPXtLBf7JDpmbRMpMlAVYBJCoHZ3SxepbTQajzMw8PzvvFQkB0",
+        "https://play-lh.googleusercontent.com/VtC1vJp7D6uDmv5RqZoMqFC5zr-iz7n7mf6ztfOh8RgzNsRMg9cvNd54G56ayjzHjQ"
+      ]
+    }
+  ]
+}
